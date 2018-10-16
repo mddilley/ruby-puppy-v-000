@@ -12,8 +12,7 @@ class Dog
   end
 
   def self.all
-    binding.pry
-    @@all
+    puts @@all
   end
 
 end
